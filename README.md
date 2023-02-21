@@ -4,7 +4,7 @@ SunSwap | A decentralized exchange protocol for automated liquidity provision on
 
 ## BTFS
 
-[sunswap](https://gateway.btfs.io/btfs/QmeJJLLxABWBL8anEY9sPyTDcS5h3yiQT7kdB8EKLBz1iG/#/home?)
+[sunswap](https://sunswap.on.btfs.io/#/home)
 
 ## Community
 
